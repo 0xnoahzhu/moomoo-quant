@@ -1,0 +1,9 @@
+[project]
+name = "moomoo-quant"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "moomoo-api>=10.3.6308",
+]
